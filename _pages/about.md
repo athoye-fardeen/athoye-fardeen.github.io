@@ -11,11 +11,11 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-Education
+Academic Background
 ======
 Bachelor of Urban and Regional Planning (2024), Bangladesh University of Engineering and Technology (BUET)
 
-Getting started
+Research Interest
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
