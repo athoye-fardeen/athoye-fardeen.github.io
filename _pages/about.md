@@ -15,4 +15,4 @@ redirect_from:
 
 *Research Interest*
 ======
-*Environmental Planning, Urban Heat Island, Air Pollution, Natural Disaster, Spatial Modelling, GIS, Remote Sensing
+*Environmental Planning, Urban Heat Island, Air Pollution, Natural Disaster, Spatial Modelling, GIS, Remote Sensing*
