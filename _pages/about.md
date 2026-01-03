@@ -17,4 +17,4 @@ redirect_from:
 
 *Research Interest*
 ======
-*Environmental Planning, Urban Heat Island, Air Pollution, Natural Disaster, Spatial Modelling, GIS, Remote Sensing*
+*Environmental Hazards, Natural Disasters, Geospatial Modelling, Spatial Analytics, Adaptation and Mitigation Strategies, Urban Heat Island, Air Pollution*
