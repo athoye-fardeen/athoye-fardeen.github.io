@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <style>
 /* Base wrapper for this page only */
 .about-page {
-  font-size: 0.95rem;   /* ← CHANGE THIS VALUE */
+  font-size: 0.95rem;  
   line-height: 1.6;
 }
   
