@@ -25,3 +25,10 @@ main:
     
   - title: "Guide"
     url: /markdown/
+    
+  - title: "Research"
+    url: /research/
+    children:
+     - title: "Spatial Heterogeneity in the Urban Heat Island–Air Pollution Nexus"
+       url: /research/urban-heat/
+
