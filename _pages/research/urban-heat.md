@@ -12,5 +12,13 @@ permalink: /Research/urban-heat/
 - *Can global regression methods, such as OLS, effectively capture localized variations in air pollution, or are more specific local models more appropriate?*
 - *If spatial heterogeneity is present, should environmental and urban planning policies remain standardized throughout a city, or should they be adapted to reflect local conditions?*
 
+### Spatial Distribution of Urban Heat
+
+<img src="/images/Spatio-temporal_uhi_air-pollution.jpg" width="700">
+
+*Figure 1. Spatial distributions of annual concentrations of air pollution and UHI averaged from 2019 to 2022 across the wards of Dhaka; a. UTFVI, b. PM2.5, c.SO2, d. O3, e. NO2, f. CO.*
+
+
+
 ### *Status*
 *Undergraduate Thesis/Completed*
