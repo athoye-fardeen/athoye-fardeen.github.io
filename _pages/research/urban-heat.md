@@ -14,11 +14,13 @@ permalink: /Research/urban-heat/
 
 ### Spatial Distribution of Urban Heat
 
-<img src="/images/Spatio-temporal_uhi_air-pollution.jpg" width="700"> , <img src="/images/Getis_Ord.jpg" width="700">
+<img src="/images/Spatio-temporal_uhi_air-pollution.jpg" width="700"> 
 
 *Figure 1. Spatial distributions of annual concentrations of air pollution and UHI averaged from 2019 to 2022 across the wards of Dhaka; a. UTFVI, b. PM2.5, c.SO2, d. O3, e. NO2, f. CO.*
 
+<img src="/images/Getis_Ord.jpg" width="700">
 
+<img src="/images/MGWR.jpg" width="700">
 
 ### *Status*
 *Undergraduate Thesis/Completed*
