@@ -14,7 +14,7 @@ Rapid urbanization has intensified the dual challenges of Urban Heat Islands (UH
 
 ### Key Variables
 - Urban Thermal Field Variance Index (UTFVI) dervided from Land Surface Temperature (LST)
-- PM2.5, NO2, SO2, CO, O3
+- PM<sub>2.5</sub> , NO<sub>2</sub> , SO<sub>2</sub> , CO, O<sub>3</sub>
 
 <p align="center">
   <img src="/images/Getis_Ord.jpg" width="49.1%" />
@@ -86,7 +86,16 @@ Rapid urbanization has intensified the dual challenges of Urban Heat Islands (UH
 
 *b.* Percentages indicate the proportion of spatial features with statistically significant local coefficients.
 
+### MGWR Coefficient Summary Statistics
+**Table 5.** Summary statistics of local MGWR coefficient estimates for each explanatory variable, showing spatial heterogeneity across wards.
 
+| Variable   | Minimum | Mean   | Maximum | Standard Deviation |
+|-----------|--------:|-------:|--------:|-----------------:|
+| Intercept | -209.23 | -172.87 | -135.42 | 23.63 |
+| NO₂       | 0.37    | 0.63    | 0.83    | 0.14 |
+| PM₂.₅     | 0.12    | 0.29    | 0.45    | 0.09 |
+
+The MGWR coefficients indicate that PM₂.₅ and NO₂ have positive effects on UTFVI across all locations, with moderate spatial variability, while the intercept shows broader variation reflecting baseline differences in urban thermal vulnerability.
 
 
 ### *Status*
