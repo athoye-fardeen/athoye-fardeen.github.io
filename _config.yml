@@ -235,7 +235,7 @@ collections:
     permalink: /:collection/:path/
   research:
     output: true
-    permalink: /:collection/:research/
+    permalink: /:collection/:path/
 
 
 
