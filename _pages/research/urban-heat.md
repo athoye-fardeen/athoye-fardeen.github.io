@@ -1,7 +1,7 @@
 ---
 title: "Spatial Heterogeneity in the Urban Heat Island–Air Pollution Nexus"
-collection: Research
-permalink: /Research/urban-heat/
+collection: research
+permalink: /research/urban-heat/
 ---
 
 ### *Problem Statement*
