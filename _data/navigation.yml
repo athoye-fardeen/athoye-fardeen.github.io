@@ -27,7 +27,7 @@ main:
     url: /markdown/
     
   - title: "Research"
-    url: /research/
+    url: /Research/
     children:
       - title: "Spatial Heterogeneity in the Urban Heat Island–Air Pollution Nexus"
         url: /Research/urban-heat/
