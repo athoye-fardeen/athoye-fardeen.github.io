@@ -23,8 +23,7 @@ Assessing the spatiotemporal variation of Land Surface Temperature (LST) and Nor
   <img src="/images/LST.jpg" width="80%" />
 </em></p>
 
-**The mean LST recorded was 34.72°C, with a gradual annual increase of 0.48% in comparison to 2018. Despite a decrease in LST in 2020 during COVID-19, a rising trend has been observed since 2021. The escalating LST trend 
-is linked to factors like urban expansion, centralization, reduced vegetation cover, and waterbody alterations.**
+**The mean LST recorded was 34.72°C, with a gradual annual increase of 0.48% in comparison to 2018. Despite a decrease in LST in 2020 during COVID-19, a rising trend has been observed since 2021. The escalating LST trend is linked to factors like urban expansion, centralization, reduced vegetation cover, and waterbody alterations.**
 
 <p align="center"><em>
   Spatiotemporal variation of NDVI from 2018 to 2023.
