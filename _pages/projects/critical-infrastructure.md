@@ -1,7 +1,7 @@
 ---
 title: "Fire Station Accessibility to Hospitals in Urban Area"
-collection: research
-permalink: /research/critical-infrastructure/
+collection: projects
+permalink: /projects/critical-infrastructure/
 ---
 
 ## GIS-based Network Analysis of Fire Station Accessibility to Hospitals in Dhaka
