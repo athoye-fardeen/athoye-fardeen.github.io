@@ -6,7 +6,7 @@ layout: single
 
 My research focuses on urban environmental challenges, spatial inequality, and the use of satellite remote sensing and GIS to support policy-relevant urban planning.
 
-## Research Projects
+### Focus Areas
 
 - **Urban Heat**  
   [View project →](/research/urban-heat/)
