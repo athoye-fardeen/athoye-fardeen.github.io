@@ -8,13 +8,13 @@ My research focuses on urban environmental challenges, spatial inequality, and t
 
 ## Research Projects
 
-- **Spatial Heterogeneity in the Urban Heat Island–Air Pollution Nexus**  
+- **Urban Heat**  
   [View project →](/research/urban-heat/)
 
-- **Urban Thermal Environment**   
+- **Thermal Environment**   
   [View project →](/research/thermal-environment/)
 
-- **Spatiotemporal Analysis of Air Pollution in Dhaka City (2019–2024)**  
+- **Air Pollution**  
   [View project →](/research/air-pollution/)
 
 
