@@ -48,8 +48,9 @@ Traffic data were collected using the **Google Maps** platform:
 
 **Both models exhibit strong explanatory power, with adjusted R² values exceeding 0.94, indicating that the selected variables explain a substantial proportion of variation in journey time during both pre- and post-Eid periods.**
 
+### Multivariate Analysis
+**Stepwise multiple linear regression**
 ### Table 3 Multivariate Analysis Results
-
 | Variable | Model 1: Before Eid (Coefficient) | Model 1: p-value | Model 2: After Eid (Coefficient) | Model 2: p-value |
 |--------|----------------------------------|------------------|----------------------------------|------------------|
 | Intercept | 0.3812 | 9.07e-5*** | 0.0825 | — |
@@ -68,6 +69,7 @@ Traffic data were collected using the **Google Maps** platform:
 
 **The multivariate regression results indicate that travel distance and congestion intensity (number of red points) significantly influence journey time in both pre- and post-Eid periods. Peak-hour effects intensify after Eid, reflecting staggered return trips and increased traffic variability.**
 
+**Diagnostic tests for linear regression assumptions**
 <p align="center">
   <img src="/images/Transport-1.jpg" width="40%" />
   <img src="/images/Transport-2.jpg" width="40%" />
@@ -76,8 +78,14 @@ Traffic data were collected using the **Google Maps** platform:
   Left: Assumption Test of Linear Regression Model for Model-1 (Before Eid). Right: Assumption Test of Linear Regression Model for Model-2 (After Eid).
 </em></p>
 
+### Key Takeways
+- Journey time increased steadily prior to Eid, peaking one day before the holiday in several regions. Post-Eid congestion persisted due to delayed return trips and adverse weather conditions.
+- Travel time increased significantly during peak hours, with the **afternoon (4 PM)** period showing the highest congestion due to synchronized departure from workplaces.
+- Regression results show congestion points have a stronger impact on travel time **after Eid** than before.
 
-
+### Tools
+- RStudio
+- ArcGIS
 
 
 
