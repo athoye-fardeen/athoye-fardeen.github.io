@@ -27,12 +27,12 @@ main:
     url: /markdown/
     
   - title: "Research"
-  url: /research/
-  children:
-    - title: "Spatial Heterogeneity in the Urban Heat Island–Air Pollution Nexus"
-      url: /research/urban-heat/
-    - title: "Urban Thermal Environment"
-      url: /research/thermal-environment/
-    - title: "Spatiotemporal Analysis of Air Pollution in Dhaka City (2019–2024)"
-      url: /research/air-pollution/
+    url: /research/
+    children:
+      - title: "Spatial Heterogeneity in the Urban Heat Island–Air Pollution Nexus"
+        url: /research/urban-heat/
+      - title: "Urban Thermal Environment"
+        url: /research/thermal-environment/
+      - title: "Spatiotemporal Analysis of Air Pollution in Dhaka City (2019–2024)"
+        url: /research/air-pollution/
 
