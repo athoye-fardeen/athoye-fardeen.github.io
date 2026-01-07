@@ -18,3 +18,4 @@ Assessing the spatiotemporal variation of Land Surface Temperature (LST) and rem
 - Annual aggregation and trend analysis  
 
 ###
+<img src="/images/LST.jpg" width="80%" />
