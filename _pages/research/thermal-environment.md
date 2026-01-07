@@ -31,4 +31,9 @@ is linked to factors like urban expansion, centralization, reduced vegetation co
   <img src="/images/NDVI.jpg" width="80%" />
 </em></p>
 
+
 **The six-year mean NDVI stands at 0.261, indicating a low value and the prevalence of scarce vegetation in the study area. Throughout the years, the NDVI values remained notably low, with a majority of the region displaying negative NDVI values annually.**
+
+All data processing and analysis were conducted in Google Earth Engine. The complete script is available in the repository.
+
+📂 GEE Script: `gee/lst_indices.js`
