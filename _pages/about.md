@@ -11,11 +11,9 @@ I am a dedicated urban planner holding a bachelor’s degree from Bangladesh Uni
 
 My research integrates geospatial technologies and data to address pressing socioenvironmental challenges at the nexus of climate change, urbanization, and ecosystem degradation. I have developed conceptual frameworks that leverage spatial modelling, geostatistics, and remote sensing applications to accurately capture the dynamic spatio-temporal patterns of urban heat and air pollution. At the core of my work is a commitment to understanding the complex drivers of environmental change in coupled human-natural systems and actively mitigating their adverse effects to foster a more equitable, sustainable, and resilient environment. Looking forward, I plan to expand my research to explore the intricate linkages and feedback among biophysical factors, socio-economic drivers, human activities, and environmental hazards, and develop AI-based prediction and simulation tools. I also plan to explore the spatial and social inequalities in environmental exposure and communities' responses to risks, considering mobility choices, individual behaviors, and adaptive strategies. This work is crucial for shaping effective policies and interventions that safeguard our environment and communities.
 
-Academic Background
-=====
+## Academic Background
 Bachelor of Urban and Regional Planning (2024), Bangladesh University of Engineering and Technology (BUET)
 
-Research Interest
-======
+## Research Interest
 Environmental Hazards, Natural Disasters, Geospatial Modelling, Spatial Analytics, Adaptation and Mitigation Strategies, Urban Heat Island, Air Pollution
 
