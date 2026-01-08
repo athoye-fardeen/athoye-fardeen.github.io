@@ -8,4 +8,4 @@ This page presents selected academic projects completed during my undergraduate 
 ### Focus Areas
 - [**Urban Critical Facilities**](/projects/critical-infrastructure/)
 - [**Transportation Planning**](/projects/highway-conditions/)
-- [**Regional Disparity**  ](/projects/spatial-disparity/)
+- [**Regional Disparity**](/projects/spatial-disparity/)
