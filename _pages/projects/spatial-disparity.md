@@ -22,20 +22,29 @@ The study focuses on seven key public facilities that influence human developmen
 - LQ > 1 → Concentration (overserved)
 - LQ < 1 → Deficiency (underserved)
 - LQ = 1 → Self-sufficient
- <p align="center"><em>
+
+<p align="center"><em>
+  LQ Maps of Educational Facilities
+</em></p> 
+<p align="center"><em>
    <img src="/images/PS.jpg" width="30%" />
    <img src="/images/SS.jpg" width="30%" />
    <img src="/images/College.jpg" width="30%" />
- </em></p> 
- 
- <p align="center"><em>
+</em></p> 
+<p align="center"><em>
+  LQ Maps of Healthcare Facilities
+</em></p>   
+<p align="center"><em>
    <img src="/images/GHC.jpg" width="45%" />
    <img src="/images/PH.jpg" width="45%" />
- </em></p> 
- <p align="center"><em>
+</em></p> 
+<p align="center"><em>
+  LQ Maps of Market Facilities
+</em></p>  
+<p align="center"><em>
     <img src="/images/GC.jpg" width="45%" />
     <img src="/images/RM.jpg" width="45%" />
- </em></p> 
+</em></p> 
 
 - **Northern and southern districts** show higher concentration of educational facilities
 - **Dhaka, Gazipur, Narayanganj, Chattogram** show per-capita deficiencies despite absolute facility numbers
