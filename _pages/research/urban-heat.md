@@ -13,7 +13,7 @@ Rapid urbanization has intensified the dual challenges of Urban Heat Islands (UH
 - If spatial heterogeneity is present, should environmental and urban planning policies remain standardized throughout a city, or should they be adapted to reflect local conditions?
 
 ### Key Variables
-- Urban Thermal Field Variance Index (UTFVI) dervided from Land Surface Temperature (LST)
+- Urban Thermal Field Variance Index (UTFVI) derived from Land Surface Temperature (LST)
 - PM<sub>2.5</sub> , NO<sub>2</sub> , SO<sub>2</sub> , CO, O<sub>3</sub>
 
 <p align="center">
@@ -71,8 +71,6 @@ Rapid urbanization has intensified the dual challenges of Urban Heat Islands (UH
 
 **The MGWR model substantially outperforms the global OLS model, as indicated by a lower AICc (ΔAICc = 13.82) and higher explanatory power (R² = 0.92). The non-significant Moran’s I for MGWR residuals confirms that spatial autocorrelation is effectively addressed, whereas the OLS model exhibits significant residual clustering, justifying the use of a multi-scale spatial approach.**
 
-
-
 ### Spatial Patterns of MGWR Regression Estimates
 **Table 4.** Summary of MGWR explanatory variables showing spatial scale (neighbourhood size) and proportion of statistically significant local coefficients.
 
@@ -97,6 +95,8 @@ Rapid urbanization has intensified the dual challenges of Urban Heat Islands (UH
 
 The MGWR coefficients indicate that PM₂.₅ and NO₂ have positive effects on UTFVI across all locations, with moderate spatial variability, while the intercept shows broader variation reflecting baseline differences in urban thermal vulnerability.
 
+### Status
+Undergraduate Thesis/Completed
 
-### *Status*
-*Undergraduate Thesis/Completed*
+### Author
+Fardeen Shakur Athoye
