@@ -75,7 +75,6 @@ During the last two decades, heavily industrialized and inadequately planned urb
 - Google Earth Engine
 - RStudio
 - ArcGIS Pro
-- Python
 
 ### Author
 Fardeen Shakur Athoye
