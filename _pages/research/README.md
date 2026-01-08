@@ -8,12 +8,10 @@ My research focuses on urban environmental challenges, spatial inequality, and t
 
 ### Focus Areas
 
-- [**Urban Heat** →](/research/urban-heat/)
+- [**Urban Heat**](/research/urban-heat/)
 
-- **Thermal Environment**   
-  [View project →](/research/thermal-environment/)
+- [**Thermal Environment**](/research/thermal-environment/)
 
-- **Air Pollution**  
-  [View project →](/research/air-pollution/)
+- [**Air Pollution**  ](/research/air-pollution/)
 
 
