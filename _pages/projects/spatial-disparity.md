@@ -68,6 +68,7 @@ A **Composite Score** was calculated by aggregating all facilities per 1,000 pop
 </em></p> 
 
 **Table 2: Distribution of Regions by Development Level (Z-score)**
+
 | Development Level                          | Z-score Range     | N  | %   |
 |-------------------------------------------|-------------------|----|-----|
 | Significantly above the national mean      | Above 1.00        | 14 | 22% |
