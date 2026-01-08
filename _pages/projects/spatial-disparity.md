@@ -23,18 +23,18 @@ The study focuses on seven key public facilities that influence human developmen
 - LQ < 1 → Deficiency (underserved)
 - LQ = 1 → Self-sufficient
  <p align="center"><em>
-   <img src="/images/PS.jpg" width="33%" />
-   <img src="/images/SS.jpg" width="33%" />
-   <img src="/images/College.jpg" width="33%" />
+   <img src="/images/PS.jpg" width="30%" />
+   <img src="/images/SS.jpg" width="30%" />
+   <img src="/images/College.jpg" width="30%" />
  </em></p> 
  
  <p align="center"><em>
-   <img src="/images/GHC.jpg" width="40%" />
-   <img src="/images/PH.jpg" width="40%" />
+   <img src="/images/GHC.jpg" width="45%" />
+   <img src="/images/PH.jpg" width="45%" />
  </em></p> 
  <p align="center"><em>
-    <img src="/images/GC.jpg" width="40%" />
-    <img src="/images/RM.jpg" width="40%" />
+    <img src="/images/GC.jpg" width="45%" />
+    <img src="/images/RM.jpg" width="45%" />
  </em></p> 
 
 - **Northern and southern districts** show higher concentration of educational facilities
