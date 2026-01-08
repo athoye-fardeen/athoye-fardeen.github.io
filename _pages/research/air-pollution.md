@@ -66,7 +66,7 @@ During the last two decades, heavily industrialized and inadequately planned urb
 ### Environmental Critical Area Index (ECAI)
 <p align="center"><em>
   Critical Area Index Map
-</em></p
+</em></p>
 <p align="center"><em>
   <img src="/images/Figure_12.jpg" width="50%" />
 </em></p>
