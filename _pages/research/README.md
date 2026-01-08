@@ -4,7 +4,7 @@ permalink: /research/
 layout: single
 ---
 
-My research focuses on urban environmental challenges, spatial inequality, and the use of satellite remote sensing and GIS to support policy-relevant urban planning.
+My research focuses on urban environmental challenges, spatial inequality, and the use of satellite remote sensing and GIS to support policy-relevant environmental planning.
 
 ### Focus Areas
 
