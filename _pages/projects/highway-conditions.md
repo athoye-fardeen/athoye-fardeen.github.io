@@ -21,6 +21,7 @@ Traffic data were collected using the **Google Maps** platform:
 ## Univariate Analysis
 ### Table 1  Results of the univariate analysis 
 ##### Categorical Variables (Days leading to festival, Peak hours)
+
 | Dependent Variable | Independent Variable | t (df) | p-value |
 |-------------------|----------------------|--------|---------|
 | Journey Time | Days to Festival | 16.9 (33) | 0.029** |
@@ -29,6 +30,7 @@ Traffic data were collected using the **Google Maps** platform:
 **Note:** ** indicates significance at the 95% confidence level.
 
 ##### Continuous Variables (Number of congestion points, Total distance along the best path (km) )
+
 | Dependent Variable | Independent Variable | t (df) | p-value | r-value |
 |-------------------|----------------------|--------|---------|---------|
 | Journey Time | Number of Red Points | 14.433 (763) | 2.2e-16** | 0.463 |
@@ -38,6 +40,7 @@ Traffic data were collected using the **Google Maps** platform:
 **Note:** ** indicates significance at the 95% confidence level.
 
 #### Table 2 Model Statistics
+
 | Statistic | Model 1: Before Eid | Model 2: After Eid |
 |---------|----------------------------|----------------------------|
 | F-statistic (df) | 1037 (6, 375) | 1262 (6, 375) |
@@ -50,6 +53,7 @@ Traffic data were collected using the **Google Maps** platform:
 ## Multivariate Analysis
 **Stepwise multiple linear regression**
 #### Table 3 Multivariate Analysis Results
+
 | Variable | Model 1: Before Eid (Coefficient) | Model 1: p-value | Model 2: After Eid (Coefficient) | Model 2: p-value |
 |--------|----------------------------------|------------------|----------------------------------|------------------|
 | Intercept | 0.3812 | 9.07e-5*** | 0.0825 | — |
