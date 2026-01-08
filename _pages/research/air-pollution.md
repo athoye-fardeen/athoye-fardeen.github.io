@@ -71,7 +71,7 @@ During the last two decades, heavily industrialized and inadequately planned urb
   <img src="/images/Figure_12.jpg" width="50%" />
 </em></p>
 
-### Tools and Software
+### Tools
 - Google Earth Engine
 - RStudio
 - ArcGIS Pro
