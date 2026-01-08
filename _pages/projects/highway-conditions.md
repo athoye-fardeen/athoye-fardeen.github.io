@@ -5,23 +5,22 @@ permalink: /research/highway-conditions/
 ---
 
 ## Overview
-This study investigates how festival-related travel demand affects highway conditions in the northern region of Bangladesh using real-time traffic data derived from Google Maps. Approximately 50 million people travel across districts during Eid festivals in Bangladesh, placing extreme pressure on highway infrastructure. Despite the magnitude of this phenomenon, limited research exists on festival-induced traffic congestion in the Bangladeshi context. The study covers 16 in northern regions of Bangladesh, connected to Dhaka through national highways.
+This study investigates how festival-related travel demand affects highway conditions in the northern region of Bangladesh using real-time traffic data derived from Google Maps. Approximately 50 million people travel across districts during Eid festivals in Bangladesh, placing extreme pressure on highway infrastructure. Despite the magnitude of this phenomenon, limited research exists on festival-induced traffic congestion in the Bangladeshi context. The study covers 16 northern regions of Bangladesh, connected to Dhaka through national highways.
 
-### Data Collection
+## Data Collection
 Traffic data were collected using the **Google Maps** platform:
 - Five days before Eid (June 24–28, 2023)
 - Five days after Eid (June 30–July 4, 2023)
 - Four-hour intervals (8 AM–12 AM)
-- Bidirectional trips between Dhaka and district centers
+- Bidirectional trips between Dhaka and regional centers
 
-### Key Variables
-- Independent Variable (Journey time)
-- Dependent Variable (Days leading to festival, Peak hours, Distance travelled, Number of congestion points)
+## Key Variables
+- Dependent Variable (Journey time)
+- Independent Variable (Days leading to festival, Peak hours, Distance travelled, Number of congestion points)
 
-### Univariate Analysis
-### Table 1  Results of the univariate analysis (Relationship between dependent variable and each of the independent variables individually) 
-
-#### Categorical Variables (Days leading to festival, Peak hours)
+## Univariate Analysis
+### Table 1  Results of the univariate analysis 
+##### Categorical Variables (Days leading to festival, Peak hours)
 | Dependent Variable | Independent Variable | t (df) | p-value |
 |-------------------|----------------------|--------|---------|
 | Journey Time | Days to Festival | 16.9 (33) | 0.029** |
@@ -29,7 +28,7 @@ Traffic data were collected using the **Google Maps** platform:
 
 **Note:** ** indicates significance at the 95% confidence level.
 
-#### Continuous Variables (Number of congestion points, Total distance along the best path (km) )
+##### Continuous Variables (Number of congestion points, Total distance along the best path (km) )
 | Dependent Variable | Independent Variable | t (df) | p-value | r-value |
 |-------------------|----------------------|--------|---------|---------|
 | Journey Time | Number of Red Points | 14.433 (763) | 2.2e-16** | 0.463 |
@@ -38,8 +37,8 @@ Traffic data were collected using the **Google Maps** platform:
 
 **Note:** ** indicates significance at the 95% confidence level.
 
-### Table 2 Model Statistics
-| Statistic | Model 1: Before Eid-ul-Adha | Model 2: After Eid-ul-Adha |
+#### Table 2 Model Statistics
+| Statistic | Model 1: Before Eid | Model 2: After Eid |
 |---------|----------------------------|----------------------------|
 | F-statistic (df) | 1037 (6, 375) | 1262 (6, 375) |
 | p-value | 2.2e-16 | 2.2e-16 |
@@ -48,9 +47,9 @@ Traffic data were collected using the **Google Maps** platform:
 
 **Both models exhibit strong explanatory power, with adjusted R² values exceeding 0.94, indicating that the selected variables explain a substantial proportion of variation in journey time during both pre- and post-Eid periods.**
 
-### Multivariate Analysis
+## Multivariate Analysis
 **Stepwise multiple linear regression**
-### Table 3 Multivariate Analysis Results
+#### Table 3 Multivariate Analysis Results
 | Variable | Model 1: Before Eid (Coefficient) | Model 1: p-value | Model 2: After Eid (Coefficient) | Model 2: p-value |
 |--------|----------------------------------|------------------|----------------------------------|------------------|
 | Intercept | 0.3812 | 9.07e-5*** | 0.0825 | — |
@@ -63,23 +62,23 @@ Traffic data were collected using the **Google Maps** platform:
 | Number of Red Points | 0.0208 | 9.22e-7*** | 0.0459 | — |
 
 **Notes:**  
-*** Significant at 1% level  
-** Significant at 5% level  
-* Significant at 10% level
+***Significant at 1% level  
+**Significant at 5% level  
+*Significant at 10% level
 
-**The multivariate regression results indicate that travel distance and congestion intensity (number of red points) significantly influence journey time in both pre- and post-Eid periods. Peak-hour effects intensify after Eid, reflecting staggered return trips and increased traffic variability.**
+**The multivariate regression results indicate that travel distance and congestion intensity significantly influence journey time in both pre- and post-Eid periods. Peak-hour effects intensify after Eid, reflecting staggered return trips and increased traffic variability.**
 
 **Diagnostic tests for linear regression assumptions**
 <p align="center">
-  <img src="/images/Transport-1.jpg" width="40%" />
-  <img src="/images/Transport-2.jpg" width="40%" />
+  <img src="/images/Transport-1.jpg" width="49%" />
+  <img src="/images/Transport-2.jpg" width="49%" />
 </p>
 <p align="center"><em>
-  Left: Assumption Test of Linear Regression Model for Model-1 (Before Eid). Right: Assumption Test of Linear Regression Model for Model-2 (After Eid).
+  Left: Assumption Test of Linear Regression Model for Model-1. Right: Assumption Test of Linear Regression Model for Model-2.
 </em></p>
 
-### Key Takeways
-- Journey time increased steadily prior to Eid, peaking one day before the holiday in several regions. Post-Eid congestion persisted due to delayed return trips and adverse weather conditions.
+### Key Takeaways
+- Journey time increased steadily before Eid, peaking one day before the holiday in several regions. Post-Eid congestion persisted due to delayed return trips and adverse weather conditions.
 - Travel time increased significantly during peak hours, with the **afternoon (4 PM)** period showing the highest congestion due to synchronized departure from workplaces.
 - Regression results show congestion points have a stronger impact on travel time **after Eid** than before.
 
@@ -87,6 +86,8 @@ Traffic data were collected using the **Google Maps** platform:
 - RStudio
 - ArcGIS
 
+### Author
+Fardeen Shakur Athoye
 
 
 
