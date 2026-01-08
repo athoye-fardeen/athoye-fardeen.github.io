@@ -1,14 +1,11 @@
 ---
-title: "Fire Station Accessibility to Hospitals in Urban Area"
+title: "Fire Station Accessibility to Hospitals in Dhaka"
 collection: projects
 permalink: /projects/critical-infrastructure/
 ---
 
-## GIS-based Network Analysis of Fire Station Accessibility to Hospitals in Dhaka
-
 ### Overview
-This project evaluates the efficiency of fire emergency response in Dhaka City Corporation
-using GIS-based network analysis. The study focuses on service area delineation, shortest
+This project evaluates the efficiency of fire emergency response in Dhaka using GIS-based network analysis. The study focuses on service area delineation, the shortest
 route identification, and response time assessment between fire stations and hospitals.
 
 ### Research Questions
@@ -19,11 +16,11 @@ route identification, and response time assessment between fire stations and hos
 
 ### Network Analysis 
 <p align="center"><em>
-   Determination of Service Area of Fire Stations
+   Determination of the Service Area of Fire Stations
   <img src="/images/GIS_2.jpg" width="80%" />
 </em></p>
 
-**There are only six selected tertiary hospitals and nine fire stations in Dhaka South. Five hospitals fall within the service area of fire stations. In the south, fire stations are closely located while absence of adequate number of fire station is seen in Dhaka North. Only six out of the 23 tertiary hospitals area located within the service area of fire stations.**
+**There are only six selected tertiary hospitals and nine fire stations in Dhaka South. Five hospitals fall within the service area of fire stations. In the south, fire stations are closely located, while the absence of an adequate number of fire stations is seen in Dhaka North. Only six out of the 23 tertiary hospitals are located within the service area of fire stations.**
 
 <p align="center"><em>
   Shortest Path Identification from Fire Stations to Hospitals
@@ -40,19 +37,22 @@ route identification, and response time assessment between fire stations and hos
 <p align="center"><em>
   Statistical Test to Assess Normal Distribution of Response Time
    <img src="/images/GIS_4.jpg" width="80%" />
+   
    <img src="/images/GIS_5.jpg" width="80%" />
 </em></p>
 Anderson-Darling Test: p-value: 0.03459
+
 CVM Test: p-value: 0.02085
-**The response time of fire stations in not normally distributed.**
-**Mean response time (23.5027 minutes) of fire stations using shortest routes is higher than National Fire Protection Association standard of response time ( 9 minutes 20 seconds)**
+
+**The response time of fire stations is not normally distributed.**
+**Mean response time (23.5027 minutes) of fire stations using shortest routes is higher than the National Fire Protection Association standard of response time ( 9 minutes 20 seconds)**
 
 ## Tools
 - ArcGIS
 - RStudio
 
-## Application
-Emergency response planning, Spatial accessibility modeling, Resilient infrastructure planning
+## Contributors
+Fardeen Shakur Athoye, Maliha Nowshin Anita, Khalid-Bin-shofiq, Fariha Aktar, Rafiul Ibna Sarowar, Mst. Taufika Islam Tania
 
 
 
