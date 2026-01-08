@@ -1,5 +1,5 @@
 ---
-title: "Spatial Disparity of Public Facilities in Bangladesh"
+title: "Spatial Disparity in the Provision of Public Facilities in Bangladesh"
 collection: projects
 permalink: /projects/spatial-disparity/
 ---
@@ -18,17 +18,16 @@ The study focuses on seven key public facilities that influence human developmen
 - Rural Markets  
 
 ### Spatial Concentration
-**Location Quotient (LQ)** was applied to evaluate per-capita availability of a facility:
-**Interpretation:**
+**Location Quotient (LQ)** was applied to evaluate the per-capita availability of a facility:
 - LQ > 1 → Concentration (overserved)
 - LQ < 1 → Deficiency (underserved)
 - LQ = 1 → Self-sufficient
-
  <p align="center"><em>
    <img src="/images/PS.jpg" width="33%" />
    <img src="/images/SS.jpg" width="33%" />
    <img src="/images/College.jpg" width="33%" />
  </em></p> 
+ 
  <p align="center"><em>
    <img src="/images/GHC.jpg" width="40%" />
    <img src="/images/PH.jpg" width="40%" />
@@ -43,8 +42,8 @@ The study focuses on seven key public facilities that influence human developmen
 - Healthcare facilities exhibit **strong spatial clustering**
 
 
-### Spatial Disparity (Lorenz Curve & Gini Index) 
-**Lorenz Curve and Gini Coefficient** were used to measure inequality.
+### Spatial Disparity
+**Gini Coefficient** was used to measure inequality.
 - Gini = 0 → Perfect equality  
 - Gini = 1 → Total inequality
   
@@ -65,7 +64,7 @@ The study focuses on seven key public facilities that influence human developmen
 A **Composite Score** was calculated by aggregating all facilities per 1,000 population. Regions were ranked using **Z-scores** to classify development levels.
 
 <p align="center"><em>
-    <img src="/images/composite_score.jpg" width="80%" />
+    <img src="/images/composite_score.jpg" width="60%" />
 </em></p> 
 
 **Table 2: Distribution of Regions by Development Level (Z-score)**
@@ -77,5 +76,6 @@ A **Composite Score** was calculated by aggregating all facilities per 1,000 pop
 | Below the national mean                   | -1.00 to 0.00     | 28 | 44% |
 | Significantly below the national mean     | Below -1.00       | 9  | 14% |
 
-
+### Contributors
+Fardeen Shakur Athoye, Maliha Nowshin Anita, Tanvir Ahmed Bhuiyan
 
