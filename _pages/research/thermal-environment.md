@@ -8,7 +8,7 @@ permalink: /research/thermal-environment/
 Rapid urbanization in Dhaka has intensified surface thermal stress and altered vegetation dynamics. Quantifying spatiotemporal variation in land surface temperature (LST) and key spectral indices is essential for understanding urban heat patterns and environmental change.
 
 ### Goal
-Assessing the spatiotemporal variation of Land Surface Temperature (LST) and Normalized Difference Vegetation Index (NDVI) of Dhaka city between 2018 and 2023 using Landsat 8 satellite imagery.
+To assess the spatiotemporal variation of Land Surface Temperature (LST) and Normalized Difference Vegetation Index (NDVI) of Dhaka city between 2018 and 2023 using Landsat 8 satellite imagery.
 
 ### Methodological Workflow
 - Image filtering by date and cloud cover  
@@ -16,7 +16,6 @@ Assessing the spatiotemporal variation of Land Surface Temperature (LST) and Nor
 - Computation of NDVI
 - LST derivation from TIRS bands  
 - Annual aggregation and trend analysis  
-
 
 <p align="center"><em>
   Comparison of land surface temperature patterns in Dhaka City between 2018 and 2023.
@@ -30,9 +29,8 @@ Assessing the spatiotemporal variation of Land Surface Temperature (LST) and Nor
   <img src="/images/NDVI.jpg" width="80%" />
 </em></p>
 
-
 **The six-year mean NDVI stands at 0.261, indicating a low value and the prevalence of scarce vegetation in the study area. Throughout the years, the NDVI values remained notably low, with a majority of the region displaying negative NDVI values annually.**
 
 All data processing and analysis were conducted in Google Earth Engine. The complete script is available in the repository.
 
-📂 GEE Script: `gee/lst_indices.js`
+📂 GEE Script: `[gee/lst_indices_2019.js](https://code.earthengine.google.com/89c8a9111fe01883d465a1d5f47eb5d0)`
