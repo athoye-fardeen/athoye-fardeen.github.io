@@ -322,4 +322,7 @@ compress_html:
   ignore:
     envs: development
 
-footer_links: []
+# footer_links:
+#   - title: Sitemap
+#     url: /sitemap/
+
