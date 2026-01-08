@@ -1,11 +1,11 @@
 ---
 title: "Highway Conditions During Festivals in Northern Bangladesh"
-collection: research
-permalink: /research/highway-conditions/
+collection: projects
+permalink: /projects/highway-conditions/
 ---
 
 ## Overview
-This study investigates how festival-related travel demand affects highway conditions in the northern region of Bangladesh using real-time traffic data derived from Google Maps. Approximately 50 million people travel across districts during Eid festivals in Bangladesh, placing extreme pressure on highway infrastructure. Despite the magnitude of this phenomenon, limited research exists on festival-induced traffic congestion in the Bangladeshi context. The study covers 16 northern regions of Bangladesh, connected to Dhaka through national highways.
+This study examines the impact of festival-related travel demand on highway conditions in the northern region of Bangladesh, utilizing real-time traffic data obtained from Google Maps. Approximately 50 million people travel across districts during the Eid festivals in Bangladesh, placing extreme pressure on the country's highway infrastructure. Despite the magnitude of this phenomenon, limited research exists on festival-induced traffic congestion in the Bangladeshi context. The study covers 16 northern regions of Bangladesh, connected to Dhaka through national highways.
 
 ## Data Collection
 Traffic data were collected using the **Google Maps** platform:
@@ -84,7 +84,7 @@ Traffic data were collected using the **Google Maps** platform:
 
 ### Tools
 - RStudio
-- ArcGIS
+- QGIS
 
 ### Author
 Fardeen Shakur Athoye
