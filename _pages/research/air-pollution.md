@@ -69,7 +69,7 @@ During the last two decades, heavily industrialized and inadequately planned urb
 </em></p
 <p align="center"><em>
   <img src="/images/Figure_12.jpg" width="50%" />
-</em></p
+</em></p>
 
 ### Tools and Software
 - Google Earth Engine
