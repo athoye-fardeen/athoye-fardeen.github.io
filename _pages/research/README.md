@@ -10,6 +10,6 @@ My research focuses on urban environmental challenges, spatial inequality, and t
 
 - [**Urban Heat**](/research/urban-heat/)
 - [**Air Pollution**](/research/air-pollution/)
-- [**Machine Learning**  ](/research/machine-learning/)
+- [**Machine Learning**](/research/machine-learning/)
 
 
