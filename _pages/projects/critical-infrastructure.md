@@ -51,8 +51,7 @@ CVM Test: p-value: 0.02085
 - ArcGIS
 - RStudio
 
-## Contributors
-Fardeen Shakur Athoye, Maliha Nowshin Anita, Khalid-Bin-shofiq, Fariha Aktar, Rafiul Ibna Sarowar, Mst. Taufika Islam Tania
+
 
 
 
