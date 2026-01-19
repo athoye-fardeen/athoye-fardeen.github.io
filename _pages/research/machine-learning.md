@@ -56,28 +56,32 @@ Models were trained using satellite-derived spectral indices and elevation data 
 
 #### Residuals
 <p align="center"><em>
-  <img src="/images/residual_boxplot_all_models.png" width="40%" />
-  <img src="/images/residual_boxplot_seasonal.png" width="46%" />
+  <img src="/images/residual_boxplot_all_models.png" width="25%" />
+  <img src="/images/residual_boxplot_seasonal.png" width="28%" />
+  <img src="/images/residual_boxplot_yearly.png" width="35%" />
 </em></p>
+
 <p align="center"><em>
   Season_Code: 0 (Winter), 1 (Summer), 2 (Monsoon), 3 (Post-monsoon)
 </em></p>
 
-### Spatial Prediction Results
+## Temporal Analysis of LST
 
-#### Seasonal LST Prediction Maps
-**Summer**  
-![Summer LST](assets/maps/seasonal/lst_summer.png)
+### Annual Trend (2020–2025)
+<p align="center"><em>
+  <img src="/images/yearly_trend_Random_Forest.png" width="48%" />
+  <img src="/images/yearly_trend_AdaBoost.png" width="48%" />
+  <img src="/images/yearly_trend_HistGradientBoosting.png" width="48%" />
+  <img src="/images/yearly_trend_XGBoost.png" width="48%" />
+</em></p>
 
-**Monsoon**  
-![Monsoon LST](assets/maps/seasonal/lst_monsoon.png)
-
-**Winter**  
-![Winter LST](assets/maps/seasonal/lst_winter.png)
-
-### Annual LST Prediction Map
-
-![Annual LST](assets/maps/annual/lst_annual.png)
+### Seasonal Trends
+<p align="center"><em>
+  <img src="/images/seasonal_trend_Random_Forest.png" width="48%" />
+  <img src="/images/seasonal_trend_AdaBoost.png" width="48%" />
+  <img src="/images/seasonal_trend_HistGradientBoosting.png" width="48%" />
+  <img src="/images/seasonal_trend_XGBoost.png" width="48%" />
+</em></p>
 
 ### Tools
 - Google Earth Engine
