@@ -54,6 +54,15 @@ Models were trained using satellite-derived spectral indices and elevation data 
   <img src="/images/scatter_XGBoost.png" width="48%" />
 </em></p>
 
+#### Residuals
+<p align="center"><em>
+  <img src="/images/residual_boxplot_all_models.png" width="40%" />
+  <img src="/images/residual_boxplot_seasonal.png" width="46%" />
+</em></p>
+<p align="center"><em>
+  Season_Code: 0 (Winter), 1 (Summer), 2 (Monsoon), 3 (Post-monsoon)
+</em></p>
+
 ### Spatial Prediction Results
 
 #### Seasonal LST Prediction Maps
