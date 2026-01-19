@@ -16,34 +16,43 @@ Models were trained using satellite-derived spectral indices and elevation data 
 - Elevation  
 
 #### Correlation Heatmap
-Heatmap showing relationships among input variables and LST.
+<p align="center">
+  <img src="/images/feature_correlation_heatmap.png" width="50%" />
+</p>
 
 ### Model Performance Evaluation
 
 #### Quantitative Performance Metrics
 
-| Model | Train R² | Test R² | AAPRE | CI | RMSE |
-|------|----------|---------|-------|----|------|
-| RF   |          |         |       |    |      |
-| XGB  |          |         |       |    |      |
-| HGB  |          |         |       |    |      |
-| ADA  |          |         |       |    |      |
+| Model | Train RMSE | Train AAPRE (%) | Train R² | Train 95% CI | Test RMSE | Test AAPRE (%) | Test R² | Test 95% CI |
+|------|-----------:|----------------:|---------:|-------------:|----------:|---------------:|--------:|------------:|
+| Random Forest | 3.73 | 11.54 | 0.84 | 7.31 | 6.33 | 18.16 | 0.52 | 12.40 |
+| AdaBoost | 6.69 | 22.58 | 0.48 | 13.09 | 6.89 | 19.84 | 0.43 | 13.50 |
+| HistGradientBoosting | 6.39 | 21.24 | 0.52 | 12.53 | 6.39 | 21.24 | 0.52 | 12.53 |
+| XGBoost | 6.12 | 21.24 | 0.56 | 12.00 | 6.12 | 21.24 | 0.56 | 12.00 |
 
+**The Random Forest model shows the best overall performance, with the lowest RMSE, the lowest AAPRE, and the highest R². AdaBoost yields the weakest results, with higher errors and lower R². HistGradientBoosting and XGBoost exhibit moderate and nearly identical performance, but both underperform relative to Random Forest.**
 
 ### Diagnostic Analysis
 
 #### Feature Importance
-**Random Forest**  
-![RF Feature Importance](assets/figures/feature_importance/rf_feature_importance.png)
+<p align="center"><em>
+   <img src="/images/feature_importance_Random_Forest.png" width="48%" />
+  <img src="/images/feature_importance_AdaBoost.png" width="48%" />
+  <img src="/images/feature_importance_HistGradientBoosting.png" width="48%" />
+  <img src="/images/feature_importance_XGBoost.png" width="48%" />
+</em></p>
 
-**XGBoost**  
-![XGB Feature Importance](assets/figures/feature_importance/xgb_feature_importance.png)
-
+**Season is the most consistently important predictor across all models, with vegetation and built-up indices also playing key roles. Elevation has minimal influence.**
 
 #### Observed vs Predicted LST
 
-**Random Forest**  
-![RF Obs vs Pred](assets/figures/observed_predicted/rf_obs_pred.png)
+<p align="center"><em>
+   <img src="/images/scatter_Random_Forest.png" width="48%" />
+  <img src="/images/scatter_AdaBoost.png" width="48%" />
+  <img src="/images/scatter_HistGradientBoosting.png" width="48%" />
+  <img src="/images/scatter_XGBoost.png" width="48%" />
+</em></p>
 
 ### Spatial Prediction Results
 
